@@ -55,6 +55,14 @@ html {
   z-index: 1;
 }
 
+.foot {
+  position: absolute;
+  top: 1800px;
+  width: 10px;
+  height: 10px;
+  z-index: 1;
+}
+
 .responsive {
   box-sizing: border-box;
   height: 100%;
